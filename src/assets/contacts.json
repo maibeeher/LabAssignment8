@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "MaiBee",
+        "lastName": "Her",
+        "email": "mai_7@live.com",
+        "phone": "(209) 123-4567",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Damian",
+        "lastName": "Lee",
+        "email": "damian.lee93@yahoo.com",
+        "phone": "(559) 555-5555",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Jordan",
+        "lastName": "Her",
+        "email": "fwm_hawj@hotmail.com",
+        "phone": "(209) 246-8901",
+        "editing": false
+    }
+]
